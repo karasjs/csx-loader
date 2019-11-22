@@ -1,0 +1,34 @@
+{
+  "name": "karas-loader",
+  "version": "0.3.0",
+  "description": "",
+  "maintainers": [
+    {
+      "name": "army8735",
+      "email": "army8735@qq.com"
+    }
+  ],
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/karasjs/karas-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "karas"
+  ],
+  "author": "army8735",
+  "license": "MIT",
+  "dependencies": {
+    "yurine": "~0.3.0"
+  },
+  "main": "./index",
+  "engines": {
+    "node": ">= 10.0"
+  },
+  "readmeFilename": "README.md",
+  "devDependencies": {
+  }
+}
