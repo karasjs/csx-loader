@@ -1,6 +1,6 @@
 {
-  "name": "karas-loader",
-  "version": "0.3.0",
+  "name": "csx-loader",
+  "version": "0.1.0",
   "description": "",
   "maintainers": [
     {
@@ -12,17 +12,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/karasjs/karas-loader.git"
+    "url": "git://github.com/karasjs/csx-loader.git"
   },
   "keywords": [
     "webpack",
     "loader",
-    "karas"
+    "karas",
+    "csx"
   ],
   "author": "army8735",
   "license": "MIT",
   "dependencies": {
-    "yurine": "~0.3.0"
+    "yurine": "~0.3.1"
   },
   "main": "./index",
   "engines": {

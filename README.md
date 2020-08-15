@@ -1,3 +1,3 @@
-# karas-loader
+# csx-loader
 
-karas loader for webpack
+csx loader for webpack
