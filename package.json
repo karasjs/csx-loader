@@ -1,6 +1,6 @@
 {
   "name": "csx-loader",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "",
   "maintainers": [
     {
@@ -23,7 +23,7 @@
   "author": "army8735",
   "license": "MIT",
   "dependencies": {
-    "yurine": "~0.3.1"
+    "yurine": "~0.4.0"
   },
   "main": "./index",
   "engines": {
